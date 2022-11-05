@@ -10,13 +10,16 @@
     "@types/node": "^16.11.59",
     "@types/react": "^18.0.20",
     "@types/react-dom": "^18.0.6",
-    "bootstrap": "5.1.1",
+    "bootstrap": "^5.2.0-beta1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0-beta.1",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.8.3",
     "web-vitals": "^2.1.4"
+  },
+  "resolutions": {
+    "autoprefixer": "10.4.5"
   },
   "scripts": {
     "start": "react-scripts start",
